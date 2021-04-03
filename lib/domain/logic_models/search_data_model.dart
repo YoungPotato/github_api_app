@@ -1,0 +1,3 @@
+class SearchDataModel {
+  String searchData = "";
+}
