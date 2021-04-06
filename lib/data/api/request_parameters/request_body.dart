@@ -6,6 +6,6 @@ class RequestBody {
   RequestBody({@required this.searchData});
 
   Map<String, dynamic> toApi() {
-    return {"q": searchData};
+    return {"q": searchData, "per_page": 100.toString()};
   }
 }

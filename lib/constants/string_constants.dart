@@ -4,6 +4,6 @@ class StringConstants {
   static const SEARCH_BUTTON_TEXT = 'Найти';
   static const UPDATE_TEXT = 'Обновлено: ';
   static const REQUEST_TEXT = 'По запросу: ';
-  static const FIND_TEXT = 'Найдено ';
+  static const FIND_TEXT = 'Найдено: ';
   static const ERROR_MESSAGE = 'Что-то пошло не так :(';
 }
